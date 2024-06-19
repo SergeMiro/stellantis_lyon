@@ -1,12 +1,13 @@
-
 import React from 'react';
 
-const Statut = () => {
+const Status = () => {
   return (
     <div>
-      <h1>Statut module</h1>
+      <h2>
+			composante Status
+		</h2>
     </div>
   );
 };
 
-export default Statut;
+export default Status;
